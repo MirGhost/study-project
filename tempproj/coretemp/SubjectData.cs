@@ -67,7 +67,7 @@
         //    }
         //    struct RussianLanguage
         //    {
-        //        public string Name = "Русский";
+        //        public string Name = "Язык";
         //        public string[] GroupsThatHaveAClass = { "KI-21", "PI-21", "KSC-21" };
         //        enum typeKI21
         //        {
