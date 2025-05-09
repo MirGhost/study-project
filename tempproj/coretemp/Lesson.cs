@@ -64,7 +64,7 @@ namespace app
                             break;
                         case 5:
                             List<string> Friday_KI = new List<string>();
-                            Friday_KI.Add("Русский язык");
+                            Friday_KI.Add("-");
                             Friday_KI.Add("-");
                             Friday_KI.Add("Моделирование цифровых узлов компьютерных систем");
                             Friday_KI.Add("Численные методы и операции исчисления");
@@ -89,7 +89,7 @@ namespace app
                             break;
                         case 2:
                             List<string> Tuesday_PI = new List<string>();
-                            Tuesday_PI.Add("Русский язык");
+                            Tuesday_PI.Add("Язык");
                             Tuesday_PI.Add("Моделирование цифровых узлов компьютерных систем");
                             Tuesday_PI.Add("Аналоговая семотехника");
                             Tuesday_PI.Add("Численные методы");
@@ -102,7 +102,7 @@ namespace app
                             Wednesday_PI.Add("-");
                             Wednesday_PI.Add("-");
                             Wednesday_PI.Add("Цифровая схемотехника");
-                            Wednesday_PI.Add("Русский язык");
+                            Wednesday_PI.Add("Язык");
                             Wednesday_PI.Add("Системное программирование");
                             Console.WriteLine("Предметы на среду для группы ПИ-21:");
                             foreach (var ex in Wednesday_PI) { Console.WriteLine(ex); }
