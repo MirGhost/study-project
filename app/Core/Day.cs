@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 /* backend Дулин Никита
- backend Витвицкий Данил
+ Full Stack Developer Витвицкий Даниил
 UI/UX Вавилов Данил
 CodeReview Ким Крмаджян
 QA Владимир Балабанов*/
