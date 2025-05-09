@@ -1,6 +1,5 @@
 ﻿namespace app
 {
-    //ЭТО ДЕЛАЛ ВИТВИЦКИЙ Я БЫ ЗА ТАКОЙ ПОЗОР ЗАКОНЧИЛ КАРЬЕРУ ПРОГРАММИСТА
     class Load 
     {
         bool Lectures = false;
