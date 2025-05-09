@@ -10,7 +10,7 @@ using System.Reflection.PortableExecutable;
 using System.Text.RegularExpressions;
 
 /* backend Дулин Никита
- backend Витвицкий Данил
+ Full Stack Developer Витвицкий Даниил
 UI/UX Вавилов Данил
 CodeReview Ким Крмаджян
 QA Владимир Балабанов*/
